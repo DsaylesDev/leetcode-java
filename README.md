@@ -14,15 +14,16 @@ This repository contains my Java solutions to LeetCode problems as I work to imp
 ```
 src
 ├── arrays
-├── strings
-├── hashmaps
 ├── binarysearch
-├── linkedlists
-├── trees
+├── dynamicprogramming
 ├── graphs
+├── hashmaps
+├── linkedlists
+├── notes
 ├── slidingwindow
-├── twopointers
-└── dynamicprogramming
+├── strings
+├── trees
+└── twopointers
 ```
 
 ## Problem Template
